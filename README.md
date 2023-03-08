@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Siam Al Rafi</h1>
-<h3 align="center">A passionate Web developer from Bangladesh.</h3>
+### Hi there, I'm Siam Al Rafi,
+A Full Stack Web developer🎯 and Learner🏫 from Bangladesh.
+
+- 👨‍💻 Full Stack MERN Developer
+- 🎥 Learn Web Development from me [@RoadsideCoder](https://www.youtube.com/roadsidecoder) <!-- - 🌱 Currently learning Svelte. -->
+- 📚 What do I believe? Jack of all, Master of some.
+- 📫 How to reach me: [Instagram](https://instagram.com/roadsidecoder) - [@Piyush_eon](https://instagram.com/piyush_eon) or [@RoadsideCoder](https://instagram.com/roadsidecoder)
+- 🎙 Freelance [Voice Over Artist](https://piyushvo.netlify.app/).
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siamalrafi&label=Profile%20views&color=0e75b6&style=flat" alt="siamalrafi" /> </p>
 
