@@ -12,8 +12,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
- <!-- <a href="https://siamalrafi.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> -->
-<a href="https://www.linkedin.com/in/siamalrafi0/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Piyush%20Agarwal-blue?style=flat-square&logo=linkedin"></a> 
+ <!-- <a href="https://siamalrafi.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.siamalrafi.com-blue?style=flat-square&logo=google-chrome"></a> -->
+<a href="https://www.linkedin.com/in/siamalrafi0/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-siamalrafi0-blue?style=flat-square&logo=linkedin"></a> 
 <a href="mailto:piyushagarwalvo@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-piyushagarwalvo@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 <p align="left">
