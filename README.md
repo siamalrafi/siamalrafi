@@ -11,9 +11,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siamalrafi&label=Profile%20views&color=0e75b6&style=flat" alt="siamalrafi" /> </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="center">
- <!-- <a href="https://siamalrafi.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.siamalrafi.com-blue?style=flat-square&logo=google-chrome"></a> -->
-<a href="https://www.linkedin.com/in/siamalrafi0/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-siamalrafi-blue?style=flat-square&logo=linkedin"></a> 
+<p align="center">[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+
 <a href="mailto:rahathasandipto@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rahathasandipto@gmail.com.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 <p align="left">
