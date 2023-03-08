@@ -3,7 +3,7 @@
 
 
 - 👨‍💻 Full Stack MERN Developer
-- 🎥 Learn Web Development from me [@RoadsideCoder](https://www.youtube.com/roadsidecoder) <!-- - 🌱 Currently learning Svelte. -->
+- 🎥 Learn Web Development from me (https://www.youtube.com/) <!-- - 🌱 Currently learning Vue.js -->
 - 📚 What do I believe? Jack of all, Master of some.
 
 
@@ -13,8 +13,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="center">
  <!-- <a href="https://siamalrafi.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.siamalrafi.com-blue?style=flat-square&logo=google-chrome"></a> -->
-<a href="https://www.linkedin.com/in/siamalrafi0/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-siamalrafi0-blue?style=flat-square&logo=linkedin"></a> 
-<a href="mailto:piyushagarwalvo@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-piyushagarwalvo@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/siamalrafi0/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-siamalrafi-blue?style=flat-square&logo=linkedin"></a> 
+<a href="mailto:rahathasandipto@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rahathasandipto@gmail.com.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 <p align="left">
 </p>
