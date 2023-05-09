@@ -3,7 +3,7 @@
 
 
 - 👨‍💻 Full Stack MERN Developer
-- 🎥 Learn Web Development from me (https://www.youtube.com/) <!-- - 🌱 Currently learning Vue.js -->
+- 🎥 Learn Web Development. <!-- - 🌱 Currently learning Vue.js -->
 - 📚 What do I believe? Jack of all, Master of some.
 
 
