@@ -7,6 +7,9 @@
 ### Hi, I'm a passionate MERN stack web developer with 1 year of professional experience. I love building interactive and user-friendly web applications that deliver seamless experiences to users. My curiosity and enthusiasm for learning have always driven me to stay up-to-date with the latest web technologies and trends
 
 
+<h2 align="center">Send text to my social platform for developing web projects.</h2>
+ 
+ 
 
 
 
