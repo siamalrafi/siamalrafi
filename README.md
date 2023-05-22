@@ -23,9 +23,9 @@
 
 </div>
 
-- Email: <i class="fas fa-envelope"></i> [mdsiamalrafi101@gmail.com](mailto:mdsiamalrafi101@gmail.com)
+Email: <i class="fas fa-envelope"></i> [mdsiamalrafi101@gmail.com](mailto:mdsiamalrafi101@gmail.com)
 
-- Portfolio: <i class="fas fa-envelope"></i> [https://siamalrafi.netlify.app/](https://siamalrafi.netlify.app/)
+Portfolio: <i class="fas fa-envelope"></i> [https://siamalrafi.netlify.app/](https://siamalrafi.netlify.app/)
 
 
 
