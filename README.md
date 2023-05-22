@@ -29,17 +29,7 @@ Portfolio: <i class="fas fa-envelope"></i> [https://siamalrafi.netlify.app/](htt
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=siamalrafi&show_icons=true&locale=en&layout=compact" alt="siamalrafi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siamalrafi&show_icons=true&locale=en" alt="siamalrafi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siamalrafi&" alt="siamalrafi" /></p>
-
-
-
 --------------
-
-
 
 
 <details open="">
