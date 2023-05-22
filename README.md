@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Siam Al Rafi</h1>
-<h3 align="center">A Full Stack Web developer🎯 and Learner🏫 from Bangladesh.</h3>
+<h3 align="center">I'm a passionate MERN stack web developer with 1 year of professional experience. I love building interactive and user-friendly web applications that deliver seamless experiences to users. My curiosity and enthusiasm for learning have always driven me to stay up-to-date with the latest web technologies and trends.</h3>
 
-
-- 👨‍💻 Full Stack MERN Developer
-- 🎥 Learn Web Development. <!-- - 🌱 Currently learning Vue.js -->
-- 📚 What do I believe? Jack of all, Master of some.
 
 
 <h3 align="left">Languages and Tools:</h3>
