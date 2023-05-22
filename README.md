@@ -22,9 +22,8 @@
 
 </div>
 
-<p align="left">
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](rahathasandipto@gmail.com)
-</p>
+- Email: <i class="fas fa-envelope"></i> [rahathasandipto@gmail.com](mailto:rahathasandipto@gmail.com)
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siamalrafi&show_icons=true&locale=en&layout=compact" alt="siamalrafi" /></p>
