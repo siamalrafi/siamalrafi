@@ -46,10 +46,7 @@ Portfolio: <i class="fas fa-envelope"></i> [https://siamalrafi.netlify.app/](htt
   <summary><b>🖥️ Best Projects I've Worked On</b></summary>
   
   <h3>Al Quran With English and Bengali Translation</h3>
-  <br/>
-  <p align="center">
-    Watch me, <a href="https://www.youtube.com/c/EngrSaad">Engr Saad</a> on YouTube!
-  </p>
+  <br/> 
 </details>
 
 <details>
