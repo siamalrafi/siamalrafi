@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siam Al Rafi</h1>
-<h3 align="left">I'm a passionate MERN stack web developer with 1 year of professional experience. I love building interactive and user-friendly web applications that deliver seamless experiences to users. My curiosity and enthusiasm for learning have always driven me to stay up-to-date with the latest web technologies and trends.</h3>
+<h4 align="left">I'm a passionate MERN stack web developer with 1 year of professional experience. I love building interactive and user-friendly web applications that deliver seamless experiences to users. My curiosity and enthusiasm for learning have always driven me to stay up-to-date with the latest web technologies and trends.</h4>
 
 
 
@@ -9,7 +9,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=siamalrafi&label=Profile%20views&color=0e75b6&style=flat" alt="siamalrafi" /> </p>
 
-<h2 align="left">Connect with me:</h2>
+<h2 align="center">Connect with me:</h2>
 
 
 <div align="center">
