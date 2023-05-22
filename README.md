@@ -2,24 +2,6 @@
   <h1 align="center">Hi Developers </h1>       
         
 [![coffee][coffee-shield]][coffee-url]   
-[![javascript][javascript-shield]][javascript-url] 
-[![linux][linux-shield]][linux-url]
-[![java][java-shield]][java-url]
-[![html][html-shield]][html-url]
-[![raspberry-pi][raspberry-shield]][raspberry-url]
-[![visual-studio][vs-shield]][vs-url]
-[![flutter][flutter-shield]][flutter-url]  
-[![c][c-shield]][c-url]
-[![python][python-shield]][python-url]
-[![windows][windows-shield]][windows-url]
-[![go][go-shield]][go-url]
-[![android][android-shield]][android-url] 
-[![latex][latex-shield]][latex-url]
-[![c#][c#-shield]][c#-url]
-[![markdown][md-shield]][md-url]
-[![bash][bash-shield]][bash-url]
-[![unity][unity-shield]][unity-url]
-   
 </div>
 
 ### Hi, I'm a passionate MERN stack web developer with 1 year of professional experience. I love building interactive and user-friendly web applications that deliver seamless experiences to users. My curiosity and enthusiasm for learning have always driven me to stay up-to-date with the latest web technologies and trends
