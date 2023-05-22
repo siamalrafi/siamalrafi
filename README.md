@@ -2,11 +2,9 @@
 <h3 align="center">I'm a passionate MERN stack web developer with 1 year of professional experience. I love building interactive and user-friendly web applications that deliver seamless experiences to users. My curiosity and enthusiasm for learning have always driven me to stay up-to-date with the latest web technologies and trends.</h3>
 
 
-- 👨‍💻 Full Stack MERN Developer
-- 🎥 Learn Web Development. <!-- - 🌱 Currently learning Vue.js -->
-- 📚 What do I believe? Jack of all, Master of some.
 
-
+<h2 align="center">Send text to my social platform for developing web projects.</h2>
+ 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siamalrafi&label=Profile%20views&color=0e75b6&style=flat" alt="siamalrafi" /> </p>
 
