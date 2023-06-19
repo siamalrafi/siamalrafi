@@ -141,7 +141,7 @@ Portfolio: <i class="fas fa-envelope"></i> [https://siamalrafi.netlify.app/](htt
 [coffee-url]: https://www.buymeacoffee.com/EngrSaad
 
 <!-- more badges 
-: https://badgen.net/ and https://github.com/Ileriayo/markdown-badges#office -->
+: https://badgen.net/ and https://github.com/Ileriayo/mardown-badges#office -->
 
 
 
