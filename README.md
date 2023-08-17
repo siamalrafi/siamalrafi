@@ -140,7 +140,7 @@ Portfolio: <i class="fas fa-envelope"></i> [https://siamalrafi.netlify.app](http
 [coffee-url]: https://www.buymeacoffee.com/EngrSaad
 
 <!-- more badges --
-: https://badge.net/andhttps://github.com/dthyouhotyou/arownbadgeofce -->
+: https://badge.net/andhttps://github.com/dthyouhotyou/arownbageofce -->
 
 
 
