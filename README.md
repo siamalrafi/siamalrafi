@@ -142,6 +142,7 @@ Portfolio: <i class="fas fa-envelope"></i> [https://siamalrafi.netlify.app](http
 <!-- more badges --
 : https://badge.net/andhttps://github.com/dtyouhotyou/arbafe -->
 
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="siamalrafi" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/siamalrafi?trk=profile-badge">SIAM AL RAFI</a></div>
+              
 
 
