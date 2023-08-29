@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Siam Al Rafi</h1>
+  <h1 align="center">Hi 👋, I'm Siam Al Rafi</h1>
 <h4 align="left">I'm a passionate MERN stack web developer with 1 year of professional experience. I love building interactive and user-friendly web applications that deliver seamless experiences to users. My curiosity and enthusiasm for learning have always driven me to stay up-to-date with the latest web technologies and trends.</h4>
 
 
@@ -141,8 +141,7 @@ Portfolio: <i class="fas fa-envelope"></i> [https://siamalrafi.netlify.app](http
 
 <!-- more badges --
 : https://badge.net/andhttps://github.com/dtyouhotyou/rafe -->
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="siamalrafi" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/siamalrafi?trk=profile-badge">SIAM AL RAFI</a></div>
+ 
               
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="siamalrafi" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/siamalrafi?trk=profile-badge">SIAM AL RAFI</a></div>
               
