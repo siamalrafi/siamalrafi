@@ -139,7 +139,7 @@ Portfolio: <i class="fas fa-envelope"></i> [https://siamalrafi.netlify.app](http
 [coffee-shield]: https://img.shields.io/badge/Buy_Me_A_Coffee-F7DF1E?style=flat-square&logo=buy-me-a-coffee&logoColor=black
 [coffee-url]: https://www.buymeacoffee.com/EngrSaad
 
-<!-- more badges --
+<!-- more badgs --
 : https://badgenet/an:/github.com/afrincom -->
  
               
