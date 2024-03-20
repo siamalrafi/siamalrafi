@@ -140,7 +140,7 @@ Portfolio: <i class="fas fa-envelope"></i> [https://siamalrafi.netlify.app](http
 [coffee-shield]: https://img.shields.io/badge/Buy_Me_A_Coffee-F7DF1E?style=flat-square&logo=buy-me-a-coffee&logoColor=black
 [coffee-url]: https://www.buymeacoffee.com/EngrSaad
 
-<!-- more badgs - https://badgenet/github.com/asecion -->
+<!-- more badgs - https://badgenet/github.com/asecin -->
               
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size=""  data-type="VERTICAL" data-vanity="siamalrafi" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/siamalrafi?trk=profile-badge">SIAM AL RAFI</a></div>
               
