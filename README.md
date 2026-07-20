@@ -1,5 +1,13 @@
-<h1 align="center">Hi 👋, I'm Siam Al Rafi</h1>
-<h4 align="left">I'm a passionate MERN stack web developer with 2 year of professional experience. I love building interactive and user-friendly web applications that deliver seamless experiences to users. My curiosity and enthusiasm for learning have always driven me to stay up-to-date with the latest web technologies and trends.</h4>
+Hi, I'm **Siam Al Rafi** from **Bangladesh** 🇧🇩.
+
+I code because I genuinely enjoy it. I'm passionate about building web applications with the **MERN Stack** and turning ideas into interactive, user-friendly projects. I'm not a professional developer—I simply love creating things, experimenting with new technologies, and constantly learning by building. Every project is a chance to improve my skills and have fun along the way.
+
+✨ Coding for fun and continuous learning
+✨ Passionate about MERN Stack development
+✨ Love building side projects and experimenting with new ideas
+✨ Always curious and exploring new technologies
+✨ Meme energy always ON 😄
+
 
 
 <h2 align="left">Languages and Tools:</h2>
