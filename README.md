@@ -1,6 +1,4 @@
-## Hi, I'm Siam Al Rafi 👋
-
-I'm from **Bangladesh** 🇧🇩.
+## Hi, I'm Siam Al Rafi from Bangladesh 🇧🇩 👋
 
 I code because I genuinely enjoy it. I'm passionate about building web applications with the **MERN Stack** and turning ideas into interactive, user-friendly projects. I'm not a professional developer—I simply love creating things, experimenting with new technologies, and constantly learning by building. Every project is a chance to improve my skills and have fun along the way.
 
